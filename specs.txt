@@ -1,0 +1,40 @@
+Aplicativo
+
+	Foco na HISTÓRIA do imóvel (Prédios, Bares, Casas, Estatuas)
+	E viver a experiência
+	
+	Feed de noticias
+		Pontos de interesse em ordem cronológica de adição
+		Fotos e historia dos imoveis
+		Anúncios externos
+		Estilo instagram
+		Cadastro pelo admin do sistema (admin only)
+		Feed->Mapa
+		Comentários feitos pelos usuários (sobre a HISTÓRIA)
+	
+	Item
+		Título, Headline
+		Headtags (Ex: Circuito Art Deco, ...)
+		História (texto)
+		Aúdio (somente de Estátuas)
+		Fotos
+		Endereço
+		Meta dados
+		
+	Mapa
+		Geolocalização
+		Carrossel de pontos de interesse
+		Pontos de interesse
+		Banner com foto e historia do imovel
+		Mapa->Feed
+		
+Perguntas a responder:
+
+O quê?
+Como?
+Quem?
+Por quê?
+Onde?
+Quando?
+
+
