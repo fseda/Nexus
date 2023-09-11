@@ -30,6 +30,6 @@ Estamos entusiasmados com o desenvolvimento deste aplicativo e ansiosos para pro
 Feed de pontos de interesse, com saiba mais, notícias, entrosamento de usuários, destaques, imagens, localização e design
 
 ## Foco do App: 
-Turismo arquitetônico (estilo do prédio e curiosidades ) e história recente
+Turismo arquitetônico (estilo do prédio e curiosidades ) e história recente.
 
 **Equipe Nexus**
