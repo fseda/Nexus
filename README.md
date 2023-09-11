@@ -26,10 +26,8 @@ O progresso do projeto será apresentado regularmente durante as aulas para o pr
 
 Estamos entusiasmados com o desenvolvimento deste aplicativo e ansiosos para proporcionar uma experiência única de exploração da cidade do Rio de Janeiro aos nossos usuários. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco.
 
-## Funcionalidade:
+## Funcionalidades:
 Feed de pontos de interesse, com saiba mais, notícias, entrosamento de usuários, destaques, imagens, localização e design
 
-## Foco do App: 
-Turismo arquitetônico (estilo do prédio e curiosidades ) e história recente.
 
 **Equipe Nexus**
