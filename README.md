@@ -4,7 +4,7 @@
 
 O **Passeio Carioca** é um aplicativo desenvolvido com o objetivo de proporcionar aos usuários uma experiência única ao explorar a cidade do Rio de Janeiro. Ele concentra-se em revelar a rica história por trás dos diversos imóveis da cidade, acompanhados de fotos e geolocalização. Além disso, o aplicativo também oferece informações sobre pontos de interesse próximos, permitindo que os usuários aproveitem ao máximo sua visita ao Rio de Janeiro.
 
-## **Como** o grupo se organizará para Executar o projeto
+## **Como** o grupo se organizará para Executar o projeto?
 
 Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe. Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
 
