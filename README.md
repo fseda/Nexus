@@ -13,7 +13,7 @@ Por que o aplicativo é importante?
 O aplicativo é importante pois ele facilita o planejamento de passeios e viagens . Além disso ele ajuda os usuários a navegar em destinos desconhecidos e se aproximar da cultura local, apresentando histórias dos imóveis visitados.
 
 Onde o projeto será montado?
-O projeto será majoritariamente executado no Visual Studio Code, uma IDE que possibilita o trabalho com diversas linguagens de programação, inclusive HTML e CSS. Além disso, os integrantes se reuniram virtual e presencialmente para discutir a execução de cada parte do projeto.
+O projeto será majoritariamente montado no Visual Studio Code, uma IDE que possibilita o trabalho com diversas linguagens de programação, inclusive HTML e CSS. Além disso, os integrantes se reunirão virtual e presencialmente para discutir a execução de cada parte do projeto.
 
 Quando o cliente verá a evolução do projeto? 
 O grupo apresentará semanalmente nas aulas a evolução do projeto para o professor e a turma, e nas AP1 e AP2, o cliente poderá avaliar e verificar como anda a execução.
