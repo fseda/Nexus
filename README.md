@@ -18,7 +18,7 @@ Este aplicativo é fundamental por várias razões. Primeiramente, ele simplific
 
 ## **Onde** o projeto será montado?
 
-O projeto será desenvolvido principalmente no Visual Studio Code, uma IDE versátil que oferece suporte a várias linguagens de programação, incluindo HTML e CSS. Além disso, a equipe **Nexus** se reunirá tanto virtualmente quanto presencialmente para discutir a execução de cada etapa do projeto. Utilizarão repositórios do GitHub para controlar o versionamento do código e facilitar a colaboração entre os membros da equipe.
+O projeto será desenvolvido principalmente no Visual Studio Code, uma IDE versátil que oferece suporte a várias linguagens de programação, incluindo HTML e CSS. Além disso, será prototipado no Figma. A equipe **Nexus** se reunirá tanto virtualmente quanto presencialmente para discutir a execução de cada etapa do projeto. Utilizarão repositórios do GitHub para controlar o versionamento do código e facilitar a colaboração entre os membros da equipe.
 
 ## **Quando** o cliente verá a evolução do projeto? 
 
