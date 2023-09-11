@@ -28,13 +28,3 @@ Aplicativo
 		Banner com foto e historia do imovel
 		Mapa->Feed
 		
-Perguntas a responder:
-
-O quê?
-Como?
-Quem?
-Por quê?
-Onde?
-Quando?
-
-
