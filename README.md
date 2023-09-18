@@ -29,7 +29,14 @@ Estamos entusiasmados com o desenvolvimento deste aplicativo e ansiosos para pro
 ## Funcionalidades:
 Feed de pontos de interesse, com saiba mais, notícias, entrosamento de usuários, destaques, imagens, localização e design
 
-## Propósito:
-Facilitar a vida do usuário ao máximo, por meio de um sistema intuitivo e claro, além de o mapa híbrido no aplicativo estará sempre atualizado, a fim de buscar a melhor experiência.
+##  Propósito:
+Facilitar a vida do usuário ao máximo, por meio de um sistema explicativo, intuitivo e claro, além de o mapa híbrido no aplicativo estará sempre atualizado, a fim de buscar a melhor experiência.
 
 **Equipe Nexus**
+Felipe Seda 
+Isabella 
+Victor
+Emily 
+Beatriz Babinskik
+
+
