@@ -29,5 +29,6 @@ Estamos entusiasmados com o desenvolvimento deste aplicativo e ansiosos para pro
 ## Funcionalidades:
 Feed de pontos de interesse, com saiba mais, notícias, entrosamento de usuários, destaques, imagens, localização e design
 
+## Propósito:
 
 **Equipe Nexus**
