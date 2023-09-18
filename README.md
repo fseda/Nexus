@@ -10,7 +10,7 @@ O sistema será desenvolvido principalmente no Visual Studio Code, com prototipa
 
 ## **Quem** quem serão os usuários?
 
-O **Passeio Carioca** é destinado a todas as pessoas, sejam elas cariocas ou não, que possuem interesse e curiosidade em conhecer a história por trás dos imóveis que visitam na cidade do Rio de Janeiro. Além disso, o aplicativo é valioso para aqueles que desejam se localizar melhor na cidade e descobrir pontos de interesse próximos.
+Os usuários do sistema do **Passeio Carioca** é destinado a todas as pessoas, sejam elas cariocas ou não, que possuem interesse e curiosidade em conhecer a história por trás dos imóveis que visitam na cidade do Rio de Janeiro. Além disso, o aplicativo é valioso para aqueles que desejam se localizar melhor na cidade e descobrir pontos de interesse próximos.
 
 ## **Por que** o sistema é importante?
 
@@ -18,7 +18,7 @@ A importância do sistema reside na capacidade de oferecer uma interface de usu�
 
 ## **Onde** o sistema será desenvolvido?
 
-O projeto será desenvolvido principalmente no Visual Studio Code, uma IDE versátil que oferece suporte a várias linguagens de programação, incluindo HTML e CSS. Além disso, será prototipado no Figma. A equipe **Nexus** se reunirá tanto virtualmente quanto presencialmente para discutir a execução de cada etapa do projeto. Utilizarão repositórios do GitHub para controlar o versionamento do código e facilitar a colaboração entre os membros da equipe.
+O projeto será desenvolvido principalmente no Visual Studio Code, uma IDE versátil que oferece suporte a várias linguagens de programação, incluindo HTML e CSS. Além disso, será prototipado no Figma. A equipe **Nexus** se reunirá tanto virtualmente, por meio do WhatsApp, quanto presencialmente para discutir a execução de cada etapa do projeto. Utilizarão repositórios do GitHub para controlar o versionamento do código e facilitar a colaboração entre os membros da equipe.
 
 ## **Quando** o sistema estará disponível? 
 
