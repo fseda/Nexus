@@ -24,6 +24,7 @@ A importância do aplicativo reside na capacidade de oferecer uma interface de u
 
 ## **Quando** o sistema estará disponível, e quando será atualizado com novos conteúdos? 
 
+O aplicativo será usado antes ou durante uma viagem ou passeio no Rio de Janeiro
 O aplicativo estará disponível intermitentemente, após sua conclusão (exceto para eventuais momentos de manutenção).
 O feed será atualizado pelos colaboradores da empresa, no horário de trabalho dos mesmos.
 
