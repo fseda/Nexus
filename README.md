@@ -8,7 +8,7 @@ O **Passeio Carioca** é um aplicativo desenvolvido com o objetivo de proporcion
 
 O sistema será desenvolvido com uma biblioteca javascript chamada **React**, e prototipado no **Figma**. Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe. Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe. Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
 
-## **Quem** quem serão os usuários, e quem poderá incluir novos conteúdos?
+## **Quem** serão os usuários, e quem poderá incluir novos conteúdos?
 
 Os usuários do sistema do **Passeio Carioca** é destinado a todas as pessoas, sejam elas cariocas ou não, que possuem interesse e curiosidade em conhecer a história por trás dos imóveis que visitam na cidade do Rio de Janeiro. Além disso, o aplicativo é valioso para aqueles que desejam se localizar melhor na cidade e descobrir pontos de interesse próximos.
 
