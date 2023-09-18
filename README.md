@@ -37,7 +37,7 @@ Facilitar a vida do usuário ao máximo, por meio de um sistema explicativo, int
 Felipe Seda 
 Isabella 
 Victor
-Emily 
+Emilly 
 Beatriz Babinskik
 
 
