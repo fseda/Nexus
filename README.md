@@ -22,11 +22,9 @@ A importância do aplicativo reside na capacidade de oferecer uma interface de u
 
 📱 O aplicativo poderá ser acessado por dispositivos que possuem um navegador web e uma conexão à internet.
 
-## **Quando** o sistema estará disponível, e quando será atualizado com novos conteúdos? 
+## **Quando** o usuário utilizará o sistema? 
 
-O aplicativo será usado antes ou durante uma viagem ou passeio no Rio de Janeiro
-O aplicativo estará disponível intermitentemente, após sua conclusão (exceto para eventuais momentos de manutenção).
-O feed será atualizado pelos colaboradores da empresa, no horário de trabalho dos mesmos.
+Será usado antes ou durante uma viagem ou passeio no Rio de Janeiro
 
 ## Requisitos Funcionais:
   - Feed: Pontos de interesse, ordenado por ordem de adição
