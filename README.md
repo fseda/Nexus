@@ -36,8 +36,8 @@ pontos de interesse, imagens, videos?, audios?, saiba mais, notícias, entrosame
 Elaborar um feed de notícias  intuitivo. Onde os colaboradores podem adicionar novidades (quaisquer que sejam), e os usuários podem interagir
 
 **Equipe Nexus**
-Felipe Seda 
-Isabella 
-Victor
-Emily 
+Felipe Seda -
+Isabella -
+Victor -
+Emily -
 Beatriz Babinskik
