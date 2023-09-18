@@ -1,8 +1,8 @@
 # Passeio Carioca - README
 
-## O que é o aplicativo Passeio Carioca?
+## O que é o sistema criado no aplicativo Passeio Carioca?
 
-O **Passeio Carioca** é um aplicativo desenvolvido com o objetivo de proporcionar aos usuários uma experiência única ao explorar a cidade do Rio de Janeiro. Ele concentra-se em revelar a rica história por trás dos diversos imóveis da cidade, acompanhados de fotos e geolocalização. Além disso, o aplicativo também oferece informações sobre pontos de interesse próximos, permitindo que os usuários aproveitem ao máximo sua visita ao Rio de Janeiro.
+O **Passeio Carioca** é um aplicativo desenvolvido com o objetivo de proporcionar aos usuários uma experiência única ao explorar a cidade do Rio de Janeiro. O sistema que será criado consistirá em um feed de notícias. Ele concentra-se em revelar a rica história por trás dos diversos imóveis da cidade, acompanhados de fotos e geolocalização. Além disso, o aplicativo também oferece informações sobre pontos de interesse próximos, permitindo que os usuários aproveitem ao máximo sua visita ao Rio de Janeiro.
 
 ## **Como** o sistema será desenvolvido?
 
