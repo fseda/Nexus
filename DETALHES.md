@@ -1,3 +1,4 @@
+
 - Pesquisa de Destinos: Permitir aos usuários pesquisar por destinos turísticos com base em critérios como localização, data, orçamento, atrações etc.
 - Avaliações e Comentários: Permitir que os usuários deixem avaliações e comentários sobre destinos, hotéis, restaurantes e atividades para ajudar outros viajantes.
 - Gerenciamento de Contas: Permitir que os usuários criem e gerenciem suas contas, incluindo informações pessoais, histórico de viagens e preferências.
