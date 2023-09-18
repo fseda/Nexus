@@ -8,9 +8,9 @@ O **Passeio Carioca** é um aplicativo desenvolvido com o objetivo de proporcion
 
 O sistema será desenvolvido com uma biblioteca javascript chamada **React**, e prototipado no **Figma**. Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe. Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe. Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
 
-## **Quem** serão os usuários, e quem poderá incluir novos conteúdos?
+## **Quem** serão os usuários?
 
-Os usuários do sistema do **Passeio Carioca** é destinado a todas as pessoas, sejam elas cariocas ou não, que possuem interesse e curiosidade em conhecer a história por trás dos imóveis que visitam na cidade do Rio de Janeiro. Além disso, o aplicativo é valioso para aqueles que desejam se localizar melhor na cidade e descobrir pontos de interesse próximos.
+O aplicativo **Passeio Carioca** é destinado a todas as pessoas, sejam elas cariocas ou não, que possuem interesse e curiosidade em conhecer a história por trás dos imóveis que visitam na cidade do Rio de Janeiro. Além disso, o aplicativo é valioso para aqueles que desejam se localizar melhor na cidade e descobrir pontos de interesse próximos.
 
 ## **Por que** o aplicativo é importante?
 
@@ -27,16 +27,17 @@ A importância do aplicativo reside na capacidade de oferecer uma interface de u
 Será usado antes ou durante uma viagem ou passeio no Rio de Janeiro
 
 ## Requisitos Funcionais:
-  - Feed: Pontos de interesse, ordenado por ordem de adição
-  - Pontos de interesse: Fotos, história, endereço, contato
+  - O sistema de possuir um feed de pontos de interesse, ordenado por ordem de adição
+  - O sistme deve ter pontos de interesse, com fotos, história, endereço, contato
   - O sistema deve exibir anúncios de empresas parceiras
   - O sistema deve permitir que o usuário possa ver o feed
   - O sistema deve permitir que o usuário possa ver os detalhes de um ponto de interesse
 
 ## Requisitos Não-Funcionais:
-  - Desenvolvimento em React
-  - Código e documentação hospedados no Github
-  - A interface do usuário deve ser intuitiva e fácil de usar
+  - O sistema deve ser desenvolvido em React
+  - O sistema deve ser prototipado pelo Figma
+  - O sistema de possuir código e documentação hospedados no Github
+  - O sistema deve possuir uma interface do usuário intuitiva e fácil de usar
   - O código deve ser escrito de forma limpa e pensado na fácil manutenção futura
 
 ##  Propósito:
@@ -46,11 +47,11 @@ Facilitar a vida do usuário ao máximo, por meio de um sistema explicativo, int
 
 Felipe Seda
 
-Isabella 
+Isabella Vieira
 
-Victor
+Victor Furtado
 
-Emilly 
+Emilly Fernandes
 
 Beatriz Babinski
 
