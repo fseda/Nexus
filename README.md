@@ -28,16 +28,16 @@ O aplicativo estará disponível intermitentemente, após sua conclusão (exceto
 O feed será atualizado pelos colaboradores da empresa, no horário de trabalho dos mesmos.
 
 ## Funcionalidades:
-Feed de pontos de interesse, com saiba mais, notícias, entrosamento de usuários, destaques, imagens, localização e design
+Feed:
+pontos de interesse, imagens, videos?, audios?, saiba mais, notícias, entrosamento de usuários, organização das notícias, imagens, localização e design
 
 ##  Propósito:
-Facilitar a vida do usuário ao máximo, por meio de um sistema explicativo, intuitivo e claro, além de o mapa híbrido no aplicativo estará sempre atualizado, a fim de buscar a melhor experiência.
+
+Elaborar um feed de notícias  intuitivo. Onde os colaboradores podem adicionar novidades (quaisquer que sejam), e os usuários podem interagir
 
 **Equipe Nexus**
 Felipe Seda 
 Isabella 
 Victor
-Emilly 
+Emily 
 Beatriz Babinskik
-
-
