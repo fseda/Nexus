@@ -27,17 +27,32 @@ A importância do aplicativo reside na capacidade de oferecer uma interface de u
 O aplicativo estará disponível intermitentemente, após sua conclusão (exceto para eventuais momentos de manutenção).
 O feed será atualizado pelos colaboradores da empresa, no horário de trabalho dos mesmos.
 
-## Funcionalidades:
-Feed de pontos de interesse, com saiba mais, notícias, entrosamento de usuários, destaques, imagens, localização e design
+## Requisitos Funcionais:
+  - Feed: Pontos de interesse, ordenado por ordem de adição
+  - Pontos de interesse: Fotos, história, endereço, contato
+  - O sistema deve exibir anúncios de empresas parceiras
+  - O sistema deve permitir que o usuário possa ver o feed
+  - O sistema deve permitir que o usuário possa ver os detalhes de um ponto de interesse
+
+## Requisitos Não-Funcionais:
+  - Desenvolvimento em React
+  - Código e documentação hospedados no Github
+  - A interface do usuário deve ser intuitiva e fácil de usar
+  - O código deve ser escrito de forma limpa e pensado na fácil manutenção futura
 
 ##  Propósito:
 Facilitar a vida do usuário ao máximo, por meio de um sistema explicativo, intuitivo e claro, além de o mapa híbrido no aplicativo estará sempre atualizado, a fim de buscar a melhor experiência.
 
 **Equipe Nexus**
-Felipe Seda 
+
+Felipe Seda
+
 Isabella 
+
 Victor
+
 Emilly 
+
 Beatriz Babinskik
 
 
