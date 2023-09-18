@@ -24,7 +24,7 @@ A importância do sistema reside na capacidade de oferecer uma interface de usu�
 
 ## **Quando** o usuário utilizará o sistema? 
 
-Será usado antes ou durante uma viagem ou passeio no Rio de Janeiro
+Será usado ao entrar no Passeio Carioca, e o app será usado antes ou durante uma viagem ou passeio no Rio de Janeiro
 
 ## Requisitos Funcionais:
   - O sistema de possuir um feed de pontos de interesse, ordenado por ordem de adição
