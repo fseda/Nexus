@@ -19,6 +19,7 @@ A importância do aplicativo reside na capacidade de oferecer uma interface de u
 ## **Onde** o aplicativo poderá ser utilizado?
 
 🗺️ O **Passeio Carioca** poderá ser utilizado em qualquer lugar do mundo, porém conterá apenas imóveis da **Cidade do Rio de Janeiro**. Então, para poder usufruir a experiência completa é recomendado que o usuário esteja presente na cidade.
+
 📱 O aplicativo poderá ser acessado por dispositivos que possuem um navegador web e uma conexão à internet.
 
 ## **Quando** o sistema estará disponível, e quando será atualizado com novos conteúdos? 
