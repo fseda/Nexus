@@ -16,7 +16,7 @@ O sistema será desenvolvido com **React**, uma biblioteca javascript, e prototi
 
 ## Quem?
 
-Usuários do aplicativo **Passeio Carioca** usaram o feed. E será principalmente utilizado por aquelas pessoas que possuem interesse e curiosidade em conhecer a história por trás de locais históricos na cidade do Rio de Janeiro. São esses, turistas, cariocas, e qualquer um que tenha interesse.
+Usuários do aplicativo **Passeio Carioca** usarão o feed. E será principalmente utilizado por aquelas pessoas que possuem interesse e curiosidade em conhecer a história por trás de locais históricos na cidade do Rio de Janeiro. São esses, turistas, cariocas, e qualquer um que tenha interesse.
 
 ## Por que?
 
@@ -24,7 +24,7 @@ Busca criar uma plataforma de distribuição de conteúdo, por meio de um feed, 
 
 ## Onde?
 
-🗺️ O feed do **Passeio Carioca** poderá ser utilizado em qualquer lugar do mundo, porém conterá apenas imóveis da **Cidade do Rio de Janeiro**.
+🗺️ O sistema poderá ser utilizado no aplicativo **Passeio Carioca**.
 
 📱 O aplicativo poderá ser acessado por dispositivos que possuem um navegador web e uma conexão à internet, e o sistema que criaremos estará dentro do APP Passeio Carioca.
 
