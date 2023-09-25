@@ -10,7 +10,7 @@ As informações que serão apresentadas sobre os locais:
   - 🗺 Endereço
   - 📞 Contato
 
-## Como? ⚛ 
+## Como? 
 
 O sistema será desenvolvido com **React**, uma biblioteca javascript, e prototipado no **Figma**. Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe. Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe. Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
 
