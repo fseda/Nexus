@@ -54,7 +54,7 @@ Busca criar uma plataforma de distribuição de conteúdo, por meio de um feed, 
   - O sistema deve ser responsivo, para ser bem visualizado em diversos tamanhos de tela.
 
 ##  Propósito:
-O propósito do sistema será exibir um feed de notícias dentro do aplicativo Passeio Carioca.
+O propósito do sistema é exibir um feed de notícias com os pontos de interesse do usuário, permitindo que ele interaja dentro do aplicativo Passeio Carioca. Além disso, o sistema mostrará anúncios de empresas parceiras no feed e possibilitará o compartilhamento dos pontos de interesse do usuário
 
 **Equipe Nexus**
 
