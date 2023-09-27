@@ -2,7 +2,7 @@
 
 ## O que?
 
-Prototipagem e desenvolvimento de uma parte de um aplicativo web (Passeio Carioca). O que será prototipado e desenvolvido é um feed, que contém informações sobre locais, estátuas e imóveis históricos da cidade do Rio de Janeiro.
+Prototipagem e desenvolvimento de uma parte de um aplicativo web (Passeio Carioca). O que será prototipado e desenvolvido é um feed que contém informações sobre locais, estátuas e imóveis históricos da cidade do Rio de Janeiro.
 
 As informações que serão apresentadas sobre os locais: 
   - 📖 História
