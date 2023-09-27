@@ -1,10 +1,11 @@
 # Passeio Carioca - README
 
+## 5W2H - Sistema
 ## O que?
 
-Prototipagem e desenvolvimento de uma parte de um aplicativo web (Passeio Carioca). O que será prototipado e desenvolvido é um feed que contém informações sobre locais, estátuas e imóveis históricos da cidade do Rio de Janeiro.
+• Prototipagem e desenvolvimento de um sistema dentro de um aplicativo web (Passeio Carioca). O que será prototipado e desenvolvido é um feed que contém informações sobre locais, estátuas e imóveis históricos da cidade do Rio de Janeiro.
 
-As informações que serão apresentadas sobre os locais: 
+• As informações que serão apresentadas sobre os locais: 
   - 📖 História
   - 📷 Fotos
   - 🗺 Endereço
@@ -12,25 +13,30 @@ As informações que serão apresentadas sobre os locais:
 
 ## Como? 
 
-O sistema será desenvolvido com **React**, uma biblioteca javascript, e prototipado no **Figma**. Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe. Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe. Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
+• O sistema funcionará como um feed de notícias, então o usuário poderá arrastar para cima e para baixo.
+• O sistema será desenvolvido com **React**, uma biblioteca javascript, e prototipado no **Figma**.
+• Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe.
+• Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe.
+• Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
 
 ## Quem?
 
-O sistema poderá ser utilizado pelos usuários do aplicativo Passeio Carioca. E será principalmente utilizado por aquelas pessoas que possuem interesse e curiosidade em conhecer a história por trás de locais históricos na cidade do Rio de Janeiro. São esses, turistas, cariocas, e qualquer um que tenha interesse.
+• O sistema poderá ser utilizado e acessado pelos usuários do aplicativo Passeio Carioca.
+• E principalmente utilizado por aquelas pessoas que possuem interesse e curiosidade em conhecer a história por trás de locais históricos na cidade do Rio de Janeiro. São esses, turistas, cariocas, e qualquer um que tenha interesse.
 
 ## Por que?
 
-Busca criar uma plataforma de distribuição de conteúdo, por meio de um feed, para difundir informações sobre, e aproximar pessoas de imóveis históricos.
+• Busca criar uma plataforma de distribuição de conteúdo, por meio de um feed, para difundir informações sobre, e aproximar pessoas de imóveis históricos.
 
 ## Onde?
 
-🗺️ O sistema poderá ser utilizado no aplicativo Passeio Carioca.
+• 🗺️ O sistema poderá ser utilizado no aplicativo Passeio Carioca.
 
-📱 O aplicativo poderá ser acessado por dispositivos que possuem um navegador web e uma conexão à internet, e o sistema que criaremos estará dentro do APP Passeio Carioca.
+• 📱 O aplicativo poderá ser acessado por dispositivos que possuem um navegador web e uma conexão à internet, e o sistema que criaremos estará dentro do APP Passeio Carioca.
 
 ## Quando ? 
 
-🕰 O sistema será acessado quando o usuário clicar em um botão dentro do aplicativo Passeio Carioca.
+• 🕰 O sistema será acessado quando o usuário clicar em um botão dentro do aplicativo Passeio Carioca.
 
 ## Requisitos Funcionais:
   - O sistema deve possuir um feed de pontos de interesse
