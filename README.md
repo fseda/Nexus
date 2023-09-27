@@ -14,15 +14,14 @@
 ## Como? 
 
 • O sistema funcionará como um feed de notícias, então o usuário poderá arrastar para cima e para baixo.
+
 • O sistema será desenvolvido com **React**, uma biblioteca javascript, e prototipado no **Figma**.
-• Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe.
-• Para garantir o sucesso deste projeto, a equipe **Nexus** adotou uma abordagem organizacional sólida. A equipe se reunirá semanalmente para compartilhar ideias e distribuir as tarefas necessárias para a execução do projeto. Durante essas reuniões, decidirão qual será o próximo passo a ser dado e atribuirão responsabilidades específicas a cada membro da equipe.
-• Além das reuniões presenciais, utilizarão o WhatsApp para manter comunicação constante e discutir detalhes do planejamento. A abordagem de divisão em sprints será adotada, permitindo um desenvolvimento ágil e eficiente do aplicativo.
+
+• Será utilizado um repositório hospedado do GitHub para versionar o código e facilitar a colaboração entre os membros da equipe para que o sistema seja formado da melhor forma possível.
 
 ## Quem?
 
 • O sistema poderá ser utilizado e acessado pelos usuários do aplicativo Passeio Carioca.
-• E principalmente utilizado por aquelas pessoas que possuem interesse e curiosidade em conhecer a história por trás de locais históricos na cidade do Rio de Janeiro. São esses, turistas, cariocas, e qualquer um que tenha interesse.
 
 ## Por que?
 
