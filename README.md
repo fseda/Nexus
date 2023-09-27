@@ -33,9 +33,14 @@
 
 • 📱 O aplicativo poderá ser acessado por dispositivos que possuem um navegador web e uma conexão à internet, e o sistema que criaremos estará dentro do APP Passeio Carioca.
 
-## Quando ? 
+## Quando? 
 
 • 🕰 O sistema será acessado quando o usuário clicar em um botão dentro do aplicativo Passeio Carioca.
+
+## Quanto?
+
+• O sistema em si não custará nenhum valor em dinheiro, apenas tempo para sua produção.
+
 
 ## Requisitos Funcionais:
   - O sistema deve possuir um feed de pontos de interesse
