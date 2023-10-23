@@ -1,5 +1,29 @@
 # Passeio Carioca - README
 
+## Tabela de Conteúdos
+- [5W2H - Sistema](#5w2h---sistema)
+  - [O que?](#o-que)
+  - [Como?](#como)
+  - [Quem?](#quem)
+  - [Por que?](#por-que)
+  - [Onde?](#onde)
+  - [Quando?](#quando)
+  - [Quanto?](#quanto)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Requisitos Não-Funcionais](#requisitos-não-funcionais)
+- [Propósito](#propósito)
+- [Casos de uso](#casos-de-uso)
+  - [Buscar Novidade](#buscar-novidade)
+  - [Visualizar feed](#visualizar-feed)
+  - [Saber Mais](#saber-mais)
+  - [Curtir Novidade](#curtir-novidade)
+  - [Compartilhar Novidade](#compartilhar-novidade)
+  - [Acessar Menu do Feed](#acessar-menu-do-feed)
+  - [Comentar](#comentar)
+  - [Filtrar o Feed](#filtrar-o-feed)
+  - [Acessar pasta de novidades favoritas](#acessar-pasta-de-novidades-favoritas)
+- [Equipe Nexus](#equipe-nexus)
+
 ## 5W2H - Sistema
 ## O que?
 
@@ -65,135 +89,133 @@
 Exibir um feed de notícias com os pontos de interesse do usuário. Além disso, o sistema mostrará anúncios de empresas parceiras no feed e possibilitará o compartilhamento dos pontos de interesse do usuário
 
 ## Casos de uso:
-- Buscar Novidade:
+  #### Buscar Novidade:
+
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário irá poder buscar (em uma barra de busca) por algo específico (que esteja presente no sistema). |
+  | **Ator**                    | Usuario do sistema                                                      |
+  | **Fluxo principal**         | 1. Usuário acessa a barra de busca.<br>2. Usuário digita palavras chave, um grupo delas, datas ou locais.<br>3. O sistema exibe as novidades correspondentes à pesquisa do usuário. |
+  | **Fluxos alternativos**    | 1. Usuário acessa a barra de busca.<br>2. Usuário digita palavras chave, um grupo delas, datas ou locais.<br>3. O sistema exibe a informação: “ nenhuma novidade correspondente a pesquisa foi encontrada”. |
+  | **Pré-condições**          | Nenhuma                                                                 |
+  | **Pós-condições**          | Nenhuma                                                                 |
+  | **Exceções**               | - Palavras com erro linguístico / case sensitive.<br>- Nenhuma novidade correspondente a pesquisa.<br>- Má conexão. |
+  | **Requisitos não funcionais** | - Função de fácil acesso e visibilidade.<br>- Busca deve ser o mais rápido possível.<br>- Exibir “barra” ou algo que demonstre que os dados estão sendo carregados pelo sistema. |
+
+  #### Visualizar feed:
+
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário poderá visualizar quaisquer notícias desejadas por meio desse sistema. |
+  | **Ator**                    | Usuario do sistema                                                      |
+  | **Fluxo principal**         | 1. O feed estará disponível no menu do aplicativo.<br>2. O usuário poderá deslizar a tela. |
+  | **Fluxos alternativos**    | Nenhum                                                                  |
+  | **Pré-condições**          | Nenhum                                                                  |
+  | **Pós-condições**          | Nenhum                                                                  |
+  | **Exceções**               | Nenhum                                                                  |
+  | **Requisitos não funcionais** | - Deslizar suavemente.<br>- Esteticamente agradável.<br>- Fácil acesso. |
+
+
+  #### Saber Mais:
+
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário clicar em saiba mais e terá acesso à novidade em sua completude. |
+  | **Ator**                    | Usuario do sistema                                                      |
+  | **Fluxo principal**         | Usuário será levado para uma página sobre a novidade fora do aplicativo. |
+  | **Fluxos alternativos**    | Usuário será levado para uma página sobre a novidade (dentro do aplicativo, como um outro site). |
+  | **Pré-condições**          | A novidade deve ter mais a apresentar do que só o que está presente no feed de notícias. |
+  | **Pós-condições**          | Nenhum                                                                  |
+  | **Exceções**               | Nenhum                                                                  |
+  | **Requisitos não funcionais** | - Transição rápida e agradável. |
+
+
+  #### Curtir Novidade:
+
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário deve poder curtir qualquer novidade. Essa novidade será armazenada em uma pasta ‘favoritos’. |
+  | **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
+  | **Fluxo principal**         | Apertar em um botão que representa essa ação.                           |
+  | **Fluxos alternativos**    | Nenhum                                                                  |
+  | **Pré-condições**          | Usuário estar cadastrado.                                               |
+  | **Pós-condições**          | ID da novidade deve ser armazenada em um banco de dados para que o usuário possa voltar a ela com facilidade. |
+  | **Exceções**               | Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir notícias. |
+  | **Requisitos não funcionais** | - Fácil acesso. |
+
+
+  #### Compartilhar Novidade:
   
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário irá poder buscar (em uma barra de busca) por algo específico (que esteja presente no sistema). |
-| **Ator**                    | Usuario do sistema                                                      |
-| **Fluxo principal**         | 1. Usuário acessa a barra de busca.<br>2. Usuário digita palavras chave, um grupo delas, datas ou locais.<br>3. O sistema exibe as novidades correspondentes à pesquisa do usuário. |
-| **Fluxos alternativos**    | 1. Usuário acessa a barra de busca.<br>2. Usuário digita palavras chave, um grupo delas, datas ou locais.<br>3. O sistema exibe a informação: “ nenhuma novidade correspondente a pesquisa foi encontrada”. |
-| **Pré-condições**          | Nenhuma                                                                 |
-| **Pós-condições**          | Nenhuma                                                                 |
-| **Exceções**               | - Palavras com erro linguístico / case sensitive.<br>- Nenhuma novidade correspondente a pesquisa.<br>- Má conexão. |
-| **Requisitos não funcionais** | - Função de fácil acesso e visibilidade.<br>- Busca deve ser o mais rápido possível.<br>- Exibir “barra” ou algo que demonstre que os dados estão sendo carregados pelo sistema. |
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário deverá poder compartilhar a novidade com Não Usuários.        |
+  | **Ator**                    | Usuário do sistema                                                      |
+  | **Fluxo principal**         | O usuário clicará em um botão que o permitirá compartilhar por uma série de formas, o link da novidade. |
+  | **Fluxos alternativos**    | Nenhum                                                                  |
+  | **Pré-condições**          | A página de cada novidade deve ter seu próprio link.                    |
+  | **Pós-condições**          | Nenhum                                                                  |
+  | **Exceções**               | Nenhum                                                                  |
+  | **Requisitos não funcionais** | - Fácil acesso. |
 
 
-- Visualizar feed:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário poderá visualizar quaisquer notícias desejadas por meio desse sistema. |
-| **Ator**                    | Usuario do sistema                                                      |
-| **Fluxo principal**         | 1. O feed estará disponível no menu do aplicativo.<br>2. O usuário poderá deslizar a tela. |
-| **Fluxos alternativos**    | Nenhum                                                                  |
-| **Pré-condições**          | Nenhum                                                                  |
-| **Pós-condições**          | Nenhum                                                                  |
-| **Exceções**               | Nenhum                                                                  |
-| **Requisitos não funcionais** | - Deslizar suavemente.<br>- Esteticamente agradável.<br>- Fácil acesso. |
-
-
-- Saber Mais:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário clicar em saiba mais e terá acesso à novidade em sua completude. |
-| **Ator**                    | Usuario do sistema                                                      |
-| **Fluxo principal**         | Usuário será levado para uma página sobre a novidade fora do aplicativo. |
-| **Fluxos alternativos**    | Usuário será levado para uma página sobre a novidade (dentro do aplicativo, como um outro site). |
-| **Pré-condições**          | A novidade deve ter mais a apresentar do que só o que está presente no feed de notícias. |
-| **Pós-condições**          | Nenhum                                                                  |
-| **Exceções**               | Nenhum                                                                  |
-| **Requisitos não funcionais** | - Transição rápida e agradável. |
+  #### Acessar Menu do Feed:
+  
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | Usuário poderá acessar um menu dentro do feed que lhe possibilitará: Filtrar o Feed e Acessar pasta de novidades favoritadas. |
+  | **Ator**                    | Usuário do sistema                                                      |
+  | **Fluxo principal**         | O usuário clica no ícone de menu e acessa os elementos descritos.       |
+  | **Fluxos alternativos**    | Possíveis caminhos alternativos que o usuário pode seguir, normalmente quando ocorrem situações excepcionais. |
+  | **Pré-condições**          | Nenhuma                                                                 |
+  | **Pós-condições**          | Nenhum                                                                  |
+  | **Exceções**               | Usuário que não está cadastrado não pode ter pasta de favoritos.        |
+  | **Requisitos não funcionais** | - Fácil acesso. |
 
 
-- Curtir Novidade:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário deve poder curtir qualquer novidade. Essa novidade será armazenada em uma pasta ‘favoritos’. |
-| **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
-| **Fluxo principal**         | Apertar em um botão que representa essa ação.                           |
-| **Fluxos alternativos**    | Nenhum                                                                  |
-| **Pré-condições**          | Usuário estar cadastrado.                                               |
-| **Pós-condições**          | ID da novidade deve ser armazenada em um banco de dados para que o usuário possa voltar a ela com facilidade. |
-| **Exceções**               | Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir notícias. |
-| **Requisitos não funcionais** | - Fácil acesso. |
-
-
-- Compartilhar Novidade:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário deverá poder compartilhar a novidade com Não Usuários.        |
-| **Ator**                    | Usuário do sistema                                                      |
-| **Fluxo principal**         | O usuário clicará em um botão que o permitirá compartilhar por uma série de formas, o link da novidade. |
-| **Fluxos alternativos**    | Nenhum                                                                  |
-| **Pré-condições**          | A página de cada novidade deve ter seu próprio link.                    |
-| **Pós-condições**          | Nenhum                                                                  |
-| **Exceções**               | Nenhum                                                                  |
-| **Requisitos não funcionais** | - Fácil acesso. |
-
-
-- Acessar Menu do Feed:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | Usuário poderá acessar um menu dentro do feed que lhe possibilitará: Filtrar o Feed e Acessar pasta de novidades favoritadas. |
-| **Ator**                    | Usuário do sistema                                                      |
-| **Fluxo principal**         | O usuário clica no ícone de menu e acessa os elementos descritos.       |
-| **Fluxos alternativos**    | Possíveis caminhos alternativos que o usuário pode seguir, normalmente quando ocorrem situações excepcionais. |
-| **Pré-condições**          | Nenhuma                                                                 |
-| **Pós-condições**          | Nenhum                                                                  |
-| **Exceções**               | Usuário que não está cadastrado não pode ter pasta de favoritos.        |
-| **Requisitos não funcionais** | - Fácil acesso. |
-
-
-- Comentar:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário deve poder comentar em novidades do seu interesse.            |
-| **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
-| **Fluxo principal**         | Clicar em um botão que o permite escrever um comentário em uma caixinha de texto e depois enviá-la. |
-| **Fluxos alternativos**    | Nenhum                                                                  |
-| **Pré-condições**          | Usuário estar cadastrado.                                               |
-| **Pós-condições**          | Comentário salvo.                                                       |
-| **Exceções**               | Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa comentar. |
-| **Requisitos não funcionais** | - Fácil acesso. |
-
-
-- Filtrar o Feed:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário deve poder escolher qualquer filtro dentre os presentes: Localização (“Perto de Você”), Ordem Padrão, …histórico , arquitetura… (“interesse”). |
-| **Ator**                    | Usuário do sistema                                                      |
-| **Fluxo principal**         | Acessar o menu e filtrar o que deseja.                                  |
-| **Fluxos alternativos**    | Nenhum                                                                  |
-| **Pré-condições**          | Nenhum Ainda                                                            |
-| **Pós-condições**          | Feed filtrado à pedido do usuário.                                      |
-| **Exceções**               | Não ter acesso à localização do usuário.                                |
-| **Requisitos não funcionais** | - Velocidade de carregamento da página. |
-
-
-- Acessar pasta de novidades favoritas:
-
-| Campo                       | Descrição                                                               |
-|-----------------------------|-------------------------------------------------------------------------|
-| **Descrição**               | O usuário terá acesso às novidades que favoritou.                       |
-| **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
-| **Fluxo principal**         | Acesse o menu e selecione o ícone de favoritos.                         |
-| **Fluxos alternativos**    | Nenhum                                                                  |
-| **Pré-condições**          | Usuário estar cadastrado.                                               |
-| **Pós-condições**          | Nenhum                                                                  |
-| **Exceções**               | 1. Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir novidades.<br>2. Se o usuário não tiver favoritado nada,  deverá aparecer uma mensagem que diz “ Parece que você ainda não tem nenhuma novidade favorita ainda.” |
-| **Requisitos não funcionais** | - Velocidade de carregamento da página. |
+  #### Comentar:
+  
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário deve poder comentar em novidades do seu interesse.            |
+  | **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
+  | **Fluxo principal**         | Clicar em um botão que o permite escrever um comentário em uma caixinha de texto e depois enviá-la. |
+  | **Fluxos alternativos**    | Nenhum                                                                  |
+  | **Pré-condições**          | Usuário estar cadastrado.                                               |
+  | **Pós-condições**          | Comentário salvo.                                                       |
+  | **Exceções**               | Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa comentar. |
+  | **Requisitos não funcionais** | - Fácil acesso. |
+  
+  
+  #### Filtrar o Feed:
+  
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário deve poder escolher qualquer filtro dentre os presentes: Localização (“Perto de Você”), Ordem Padrão, …histórico , arquitetura… (“interesse”). |
+  | **Ator**                    | Usuário do sistema                                                      |
+  | **Fluxo principal**         | Acessar o menu e filtrar o que deseja.                                  |
+  | **Fluxos alternativos**    | Nenhum                                                                  |
+  | **Pré-condições**          | Nenhum Ainda                                                            |
+  | **Pós-condições**          | Feed filtrado à pedido do usuário.                                      |
+  | **Exceções**               | Não ter acesso à localização do usuário.                                |
+  | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
+  
+  
+  #### Acessar pasta de novidades favoritas:
+  
+  | Campo                       | Descrição                                                               |
+  |-----------------------------|-------------------------------------------------------------------------|
+  | **Descrição**               | O usuário terá acesso às novidades que favoritou.                       |
+  | **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
+  | **Fluxo principal**         | Acesse o menu e selecione o ícone de favoritos.                         |
+  | **Fluxos alternativos**    | Nenhum                                                                  |
+  | **Pré-condições**          | Usuário estar cadastrado.                                               |
+  | **Pós-condições**          | Nenhum                                                                  |
+  | **Exceções**               | 1. Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir novidades.<br>2. Se o usuário não tiver favoritado nada,  deverá aparecer uma mensagem que diz “ Parece que você ainda não tem nenhuma novidade favorita ainda.” |
+  | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
 
 
 
-
-**Equipe Nexus**
+### **Equipe Nexus**
 
 Felipe Seda
 
