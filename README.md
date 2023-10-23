@@ -1,5 +1,6 @@
 # Passeio Carioca - README
 
+[Repositóro do aplicativo](https://github.com/fseda/nexus-app)
 
 ## Tabela de Conteúdos
 - [5W2H - Sistema](#5w2h---sistema)
