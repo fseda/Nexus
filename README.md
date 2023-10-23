@@ -93,7 +93,7 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
 | **Requisitos não funcionais** | - Deslizar suavemente.<br>- Esteticamente agradável.<br>- Fácil acesso. |
 
 
-- Saiber Mais:
+- Saber Mais:
 
 | Campo                       | Descrição                                                               |
 |-----------------------------|-------------------------------------------------------------------------|
