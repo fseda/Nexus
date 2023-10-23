@@ -66,6 +66,46 @@
 ##  Propósito:
 O propósito do sistema é exibir um feed de notícias com os pontos de interesse do usuário, permitindo que ele interaja dentro do aplicativo Passeio Carioca. Além disso, o sistema mostrará anúncios de empresas parceiras no feed e possibilitará o compartilhamento dos pontos de interesse do usuário
 
+## Casos de uso
+
+# Buscar Novidade
+
+**Descrição:**  
+O usuário irá poder buscar (em uma barra de busca) por algo específico (que esteja presente no sistema).
+
+**Ator:**  
+Usuario do sistema
+
+## Fluxo principal:
+
+1. Usuário acessa a barra de busca.
+2. Usuário digita palavras chave, um grupo delas, datas ou locais.
+3. O sistema exibe as novidades correspondentes à pesquisa do usuário.
+
+## Fluxos alternativos:
+
+1. Usuário acessa a barra de busca.
+2. Usuário digita palavras chave, um grupo delas, datas ou locais.
+3. O sistema exibe a informação: “ nenhuma novidade correspondente a pesquisa foi encontrada”.
+
+**Pré-condições:**  
+nenhuma
+
+**Pós-condições:**  
+nenhuma
+
+## Exceções:
+
+- Palavras com erro linguístico / case sensitive.
+- Nenhuma novidade correspondente a pesquisa.
+- Má conexão.
+
+## Requisitos não funcionais:
+
+- Função de fácil acesso e visibilidade.
+- Busca deve ser o mais rápido possível.
+- Exibir “barra” ou algo que demonstre que os dados estão sendo carregados pelo sistema.
+
 
 **Equipe Nexus**
 
