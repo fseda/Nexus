@@ -60,11 +60,9 @@
   - O sistema deve ser desenvolvido em React.
   - O sistema deve ser prototipado pelo Figma.
   - O sistema de possuir código fonte e documentação hospedados no Github.
-  - O sistema deve possuir código fonte escrito seguindo padrões e normas impostas pela equipe de desenvolvimento.
-  - O sistema deve ser responsivo, para ser bem visualizado em diversos tamanhos de tela.
 
 ##  Propósito:
-O propósito do sistema é exibir um feed de notícias com os pontos de interesse do usuário, permitindo que ele interaja dentro do aplicativo Passeio Carioca. Além disso, o sistema mostrará anúncios de empresas parceiras no feed e possibilitará o compartilhamento dos pontos de interesse do usuário
+Exibir um feed de notícias com os pontos de interesse do usuário. Além disso, o sistema mostrará anúncios de empresas parceiras no feed e possibilitará o compartilhamento dos pontos de interesse do usuário
 
 ## Casos de uso:
 - Buscar Novidade:
