@@ -217,14 +217,14 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
 
 ### **Equipe Nexus**
 
-Felipe Seda
+[Felipe Seda](github.com/fseda)
 
-Isabella Vieira
+[Isabella Vieira](github.com/isabellavieira)
 
-Victor Furtado
+[Victor Furtado](github.com/VicMouEstFur)
 
-Emilly Fernandes
+[Emilly Fernandes](github.com/emi-fernandes)
 
-Beatriz Babinski
+[Beatriz Babinski](https://github.com/BiaKzl)
 
 
