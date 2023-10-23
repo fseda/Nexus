@@ -1,5 +1,6 @@
 # Passeio Carioca - README
 
+
 ## Tabela de Conteúdos
 - [5W2H - Sistema](#5w2h---sistema)
   - [O que?](#o-que)
@@ -213,6 +214,8 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Exceções**               | 1. Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir novidades.<br>2. Se o usuário não tiver favoritado nada,  deverá aparecer uma mensagem que diz “ Parece que você ainda não tem nenhuma novidade favorita ainda.” |
   | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
 
+## Protótipo Figma 
+[Protótipo Passeio Carioca](https://www.figma.com/proto/l9uBdAunvSPWzj3G3NNNBD/Untitled?type=design&node-id=1-2&t=Rv3rG2MfW2d9dzcD-0&scaling=scale-down&page-id=0%3A1)
 
 
 ### **Equipe Nexus**
