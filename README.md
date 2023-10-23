@@ -68,6 +68,7 @@ O propósito do sistema é exibir um feed de notícias com os pontos de interess
 
 ## Casos de uso:
 - Buscar Novidade:
+  
 | Campo                       | Descrição                                                               |
 |-----------------------------|-------------------------------------------------------------------------|
 | **Descrição**               | O usuário irá poder buscar (em uma barra de busca) por algo específico (que esteja presente no sistema). |
