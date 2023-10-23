@@ -230,4 +230,6 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
 
 [Beatriz Babinski](https://github.com/BiaKzl)
 
+## Entrosamento
+O grupo decidiu se encontrar uma vez por semana em uma cafeteria para melhorar o entrosamento.
 
