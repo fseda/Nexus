@@ -118,11 +118,11 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Requisitos não funcionais** | - Deslizar suavemente.<br>- Esteticamente agradável.<br>- Fácil acesso. |
 
 
-  #### Saber Mais:
+  #### Ver Detalhes:
 
   | Campo                       | Descrição                                                               |
   |-----------------------------|-------------------------------------------------------------------------|
-  | **Descrição**               | O usuário clicar em saiba mais e terá acesso à novidade em sua completude. |
+  | **Descrição**               | O usuário clicar em ver detalhes e terá acesso à novidade em sua completude. |
   | **Ator**                    | Usuario do sistema                                                      |
   | **Fluxo principal**         | Usuário será levado para uma página sobre a novidade fora do aplicativo. |
   | **Fluxos alternativos**    | Usuário será levado para uma página sobre a novidade (dentro do aplicativo, como um outro site). |
