@@ -216,7 +216,7 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
 
 ## Protótipo Figma 
-[Protótipo Passeio Carioca](https://www.figma.com/proto/l9uBdAunvSPWzj3G3NNNBD/Untitled?type=design&node-id=1-2&t=Rv3rG2MfW2d9dzcD-0&scaling=scale-down&page-id=0%3A1)
+[Protótipo Passeio Carioca](https://www.figma.com/file/iAdXW9OlZqI7b2lDzNd5mX/Untitled?type=design&node-id=0%3A1&mode=design&t=sXibb1qPX1T7P6l4-1)
 
 
 ### **Equipe Nexus**
