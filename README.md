@@ -1,5 +1,7 @@
 # Passeio Carioca - README
 
+[Repositóro do aplicativo](https://github.com/fseda/nexus-app)
+
 ## Tabela de Conteúdos
 - [5W2H - Sistema](#5w2h---sistema)
   - [O que?](#o-que)
@@ -116,6 +118,7 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Requisitos não funcionais** | - Deslizar suavemente.<br>- Esteticamente agradável.<br>- Fácil acesso. |
 
 
+
   #### Ver detalhes:
 
   | Campo                       | Descrição                                                               |
@@ -185,6 +188,8 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Exceções**               | 1. Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir novidades.<br>2. Se o usuário não tiver favoritado nada,  deverá aparecer uma mensagem que diz “ Parece que você ainda não tem nenhuma novidade favorita ainda.” |
   | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
 
+## Protótipo Figma 
+[Protótipo Passeio Carioca](https://www.figma.com/file/iAdXW9OlZqI7b2lDzNd5mX/Untitled?type=design&node-id=0%3A1&mode=design&t=sXibb1qPX1T7P6l4-1)
 
 
 ### **Equipe Nexus**
@@ -199,4 +204,6 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
 
 [Beatriz Babinski](https://github.com/BiaKzl)
 
+## Entrosamento
+O grupo decidiu se encontrar uma vez por semana em uma cafeteria para melhorar o entrosamento.
 
