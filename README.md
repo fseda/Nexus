@@ -174,20 +174,7 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Exceções**               | Não ter acesso à localização do usuário.                                |
   | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
   
-  
-  #### Acessar pasta de novidades favoritas:
-  
-  | Campo                       | Descrição                                                               |
-  |-----------------------------|-------------------------------------------------------------------------|
-  | **Descrição**               | O usuário terá acesso às novidades que favoritou.                       |
-  | **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
-  | **Fluxo principal**         | Acesse o menu e selecione o ícone de favoritos.                         |
-  | **Fluxos alternativos**    | Nenhum                                                                  |
-  | **Pré-condições**          | Usuário estar cadastrado.                                               |
-  | **Pós-condições**          | Nenhum                                                                  |
-  | **Exceções**               | 1. Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir novidades.<br>2. Se o usuário não tiver favoritado nada,  deverá aparecer uma mensagem que diz “ Parece que você ainda não tem nenhuma novidade favorita ainda.” |
-  | **Requisitos não funcionais** | - Velocidade de carregamento da página. |
-
+                                  
 ## Protótipo Figma 
 [Protótipo Passeio Carioca](https://www.figma.com/file/iAdXW9OlZqI7b2lDzNd5mX/Untitled?type=design&node-id=0%3A1&mode=design&t=sXibb1qPX1T7P6l4-1)
 
