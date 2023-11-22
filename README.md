@@ -133,34 +133,7 @@ Exibir um feed de notícias com os pontos de interesse do usuário. Além disso,
   | **Requisitos não funcionais** | - Transição rápida e agradável. |
 
 
-  #### Curtir Novidade:
 
-  | Campo                       | Descrição                                                               |
-  |-----------------------------|-------------------------------------------------------------------------|
-  | **Descrição**               | O usuário deve poder curtir qualquer novidade.|
-  | **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
-  | **Fluxo principal**         | Apertar em um botão que representa essa ação.                           |
-  | **Fluxos alternativos**    | Nenhum                                                                  |
-  | **Pré-condições**          | Usuário estar cadastrado.                                               |
-  | **Pós-condições**          | ID da novidade deve ser armazenada em um banco de dados para que o usuário possa voltar a ela com facilidade. |
-  | **Exceções**               | Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa curtir notícias. |
-  | **Requisitos não funcionais** | - Fácil acesso. |
-
-
-  #### Comentar:
-  
-  | Campo                       | Descrição                                                               |
-  |-----------------------------|-------------------------------------------------------------------------|
-  | **Descrição**               | O usuário deve poder comentar em novidades do seu interesse.            |
-  | **Ator**                    | Usuário do sistema (CADASTRADO)                                         |
-  | **Fluxo principal**         | Clicar em um botão que o permite escrever um comentário em uma caixinha de texto e depois enviá-la. |
-  | **Fluxos alternativos**    | Nenhum                                                                  |
-  | **Pré-condições**          | Usuário estar cadastrado.                                               |
-  | **Pós-condições**          | Comentário salvo.                                                       |
-  | **Exceções**               | Se o usuário não for cadastrado, ele deverá receber um popup que o avisa para se cadastrar para que ele possa comentar. |
-  | **Requisitos não funcionais** | - Fácil acesso. |
-  
-  
   #### Filtrar o Feed:
   
   | Campo                       | Descrição                                                               |
